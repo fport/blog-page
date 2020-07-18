@@ -3,7 +3,7 @@
 
 ### :bowtie: Kazanımlar :bowtie:
 - **alt** etiketinin seo için önemi,  
-- 1em:16px eşit oldugunu,  
+- **1em**:16px eşit oldugunu,  
 - **article** etiketi ile forum, blog, haber yazısı gibi genel kapsayıcı olarak kullanmayıi,  
 - **blockquote** ile alıntı yapmayı pekiştirdiğim ufak bir örnek...  
   
